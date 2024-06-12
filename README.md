@@ -19,6 +19,7 @@ The project aims to address the limitations of traditional information retrieval
 |- dropdown.py           # Module for dropdown menu functionality
 |- Project8420.ipynb     # Jupyter notebook with implementation details
 |- sampledata.pdf        # Sample Data file (actual data report of a company)
+|- requirements.txt      # required modules and packages to run the program
 |- README.md             # This file
 ```
 
