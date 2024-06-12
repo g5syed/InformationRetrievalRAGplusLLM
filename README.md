@@ -13,13 +13,13 @@ The project aims to address the limitations of traditional information retrieval
 - **Scalability:** Develop a scalable solution that can handle increasing amounts of data without performance degradation.
 
 ## Repository Structure
-
+```
 /
 |- app.py                # Main application script
 |- dropdown.py           # Module for dropdown menu functionality
 |- Project8420.ipynb     # Jupyter notebook with implementation details
 |- README.md             # This file
-
+```
 
 ## System Architecture
 
