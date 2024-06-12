@@ -25,7 +25,7 @@ The project aims to address the limitations of traditional information retrieval
 ## System Architecture
 
 The system architecture is designed to facilitate high-volume data transactions and is scalable to accommodate future expansions. It includes data preprocessing modules, a retrieval engine, the GPT-4 integration interface, and post-processing units for refining responses.
-![alt text]([https://raw.githubusercontent.com/g5syed/InformationRetrievalRAGplusLLM/main/Retrieval-Augmented%20Generation%20Process.webp] ?raw=true "RAG Process")
+![image](https://raw.githubusercontent.com/g5syed/InformationRetrievalRAGplusLLM/main/Retrieval-Augmented%20Generation%20Process.webp?raw=true "RAG Process")
 
 ### Key Components
 
