@@ -1,4 +1,3 @@
-```
 # Precise Information Retrieval Using RAG and LLM
 
 This repository houses the code and documentation for the "Precise Information Retrieval Using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs)" project, as detailed in the project report by Danish Faiz for COMP8420 Advanced Natural Language Processing, Assignment 3.
@@ -15,13 +14,12 @@ The project aims to address the limitations of traditional information retrieval
 
 ## Repository Structure
 
-```plaintext
 /
 |- app.py                # Main application script
 |- dropdown.py           # Module for dropdown menu functionality
 |- Project8420.ipynb     # Jupyter notebook with implementation details
 |- README.md             # This file
-```
+
 
 ## System Architecture
 
@@ -71,5 +69,4 @@ Future enhancements will focus on:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+This project is a personal assessment for Macquarie University use only
